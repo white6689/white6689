@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 <div align=center>
  <img src="http://mazandi.herokuapp.com/api?handle=white6689&theme=warm"/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=white6689)](https://github.com/white6689/github-readme-stats)
 </div>
