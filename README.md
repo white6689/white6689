@@ -12,8 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=white6689&show_icons=true&theme=radical)](https://github.com/white6689/github-readme-stats)
- 
-<img src="http://mazandi.herokuapp.com/api?handle=white6689&theme=dark"/>
- -->
-<a href="https://blush-laugh-777.notion.site/2022-51d30b45940342a796246c865e3bf571"><img src="https://img.shields.io/badge/Notion-000000?style=flat square&logo=notion&logoColor=white"/></a>
+
